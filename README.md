@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi , I'm Mayank Jindal 👋
 
-<!--
-**mayank34000/mayank34000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **AI & Machine Learning Engineering student** who enjoys turning ideas into real, working products.
 
-Here are some ideas to get you started:
+What started as curiosity about AI has grown into a passion for building applications that combine **machine learning, backend development, and intuitive user experiences**. Whether it's training a predictive model, designing REST APIs, or developing full-stack applications, I love understanding how things work and then building them from scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe the best way to learn is by building. That's why most of my time goes into creating projects that solve practical problems rather than simply completing tutorials.
+
+### 🚀 What I'm currently exploring
+
+* Artificial Intelligence & Machine Learning
+* Data Science & Predictive Analytics
+* Full-Stack Web Development
+* Backend Engineering & APIs
+* Data Structures & Algorithms
+* System Design Fundamentals
+
+### 💻 Tech Stack
+
+**Languages**
+Python • Java • JavaScript • TypeScript • SQL • C++
+
+**Frameworks & Libraries**
+React • FastAPI • Node.js • Flask • Django • Scikit-learn • Pandas • NumPy
+
+**Databases**
+MongoDB • MySQL • Supabase
+
+**Tools**
+Git • GitHub • VS Code • Postman
+
+### 📂 What you'll find in my repositories
+
+* 🤖 Machine Learning projects
+* 🌐 Full-stack web applications
+* 📊 Data analysis and visualisation
+* ⚡ Backend APIs and databases
+* 🧩 DSA and problem-solving practice
+* 💡 Projects built while learning new technologies
+
+I don't believe in knowing everything—I believe in learning quickly, writing better code every day, and building projects that challenge me to grow.
+
+If something catches your attention, I'd love to connect, exchange ideas, or collaborate on interesting projects.
