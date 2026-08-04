@@ -1,43 +1,107 @@
-# Hi , I'm Mayank Jindal 👋
+<div align="center">
 
-I'm an **AI & Machine Learning Engineering student** who enjoys turning ideas into real, working products.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Mayank%20Jindal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Builder%20at%20Heart&descAlignY=58&descColor=ccc9ff" width="100%"/>
 
-What started as curiosity about AI has grown into a passion for building applications that combine **machine learning, backend development, and intuitive user experiences**. Whether it's training a predictive model, designing REST APIs, or developing full-stack applications, I love understanding how things work and then building them from scratch.
 
-I believe the best way to learn is by building. That's why most of my time goes into creating projects that solve practical problems rather than simply completing tutorials.
 
-### 🚀 What I'm currently exploring
+</div>
 
-* Artificial Intelligence & Machine Learning
-* Data Science & Predictive Analytics
-* Full-Stack Web Development
-* Backend Engineering & APIs
-* Data Structures & Algorithms
-* System Design Fundamentals
+👨‍💻 About Me
 
-### 💻 Tech Stack
+mayank = {
+    "name"     : "Mayank Jindal",
+    "role"     : "AI & ML Engineering Student",
+    "university": "Chitkara University Punjab (Class of 2028)",
+    "location" : "Bathinda, Punjab, India 🇮🇳",
+    "belief"   : "The best way to learn is by building.",
+    "focus"    : ["ML", "Full-Stack", "APIs", "System Design"]
+}
 
-**Languages**
-Python • Java • JavaScript • TypeScript • SQL • C++
+🚀 What I'm Exploring
 
-**Frameworks & Libraries**
-React • FastAPI • Node.js • Flask • Django • Scikit-learn • Pandas • NumPy
+<table>
+  <tr>
+    <td>🤖</td><td><b>Artificial Intelligence & Machine Learning</b></td>
+    <td>📊</td><td><b>Data Science & Predictive Analytics</b></td>
+  </tr>
+  <tr>
+    <td>🌐</td><td><b>Full-Stack Web Development</b></td>
+    <td>⚡</td><td><b>Backend Engineering & APIs</b></td>
+  </tr>
+  <tr>
+    <td>🧩</td><td><b>Data Structures & Algorithms</b></td>
+    <td>🏗️</td><td><b>System Design Fundamentals</b></td>
+  </tr>
+</table>
 
-**Databases**
-MongoDB • MySQL • Supabase
+💻 Tech Stack
 
-**Tools**
-Git • GitHub • VS Code • Postman
+Languages
 
-### 📂 What you'll find in my repositories
 
-* 🤖 Machine Learning projects
-* 🌐 Full-stack web applications
-* 📊 Data analysis and visualisation
-* ⚡ Backend APIs and databases
-* 🧩 DSA and problem-solving practice
-* 💡 Projects built while learning new technologies
 
-I don't believe in knowing everything—I believe in learning quickly, writing better code every day, and building projects that challenge me to grow.
+Frameworks & Libraries
 
-If something catches your attention, I'd love to connect, exchange ideas, or collaborate on interesting projects.
+
+
+Databases
+
+
+
+Tools
+
+
+
+📂 What You'll Find Here
+
+Category
+
+Description
+
+🤖 Machine Learning
+
+Predictive models, classifiers, and AI-powered apps
+
+🌐 Full-Stack Apps
+
+End-to-end web applications with real use cases
+
+📊 Data Analysis
+
+Exploratory analysis and visualisation notebooks
+
+⚡ Backend APIs
+
+REST APIs built with FastAPI, Flask, or Node.js
+
+🧩 DSA Practice
+
+Algorithmic problem solving in Python / C++
+
+💡 Learning Projects
+
+Things I built while picking up something new
+
+📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mayank34000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=cdd6f4" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank34000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=cdd6f4" height="160"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mayank34000&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="160"/>
+
+</div>
+
+🤝 Let's Connect
+
+<div align="center">
+
+
+
+I don't believe in knowing everything — I believe in learning quickly, writing better code every day, and building projects that challenge me to grow.
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
