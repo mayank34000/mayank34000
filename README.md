@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER — pure SVG, renders on GitHub without any external service -->
-<svg width="100%" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#0D1117"/>
@@ -13,21 +13,21 @@
       <stop offset="100%" style="stop-color:#60A5FA"/>
     </linearGradient>
   </defs>
-  <rect width="900" height="200" fill="url(#bg)" rx="12"/>
+  <rect width="900" height="220" fill="url(#bg)" rx="12"/>
   <!-- decorative circles -->
   <circle cx="80" cy="40" r="55" fill="#6C63FF" opacity="0.07"/>
-  <circle cx="820" cy="160" r="70" fill="#4FC3F7" opacity="0.07"/>
-  <circle cx="450" cy="190" r="100" fill="#7C3AED" opacity="0.05"/>
+  <circle cx="820" cy="170" r="70" fill="#4FC3F7" opacity="0.07"/>
+  <circle cx="450" cy="210" r="100" fill="#7C3AED" opacity="0.05"/>
   <!-- name -->
-  <text x="450" y="95" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700"
+  <text x="450" y="105" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="700"
         text-anchor="middle" fill="url(#text-grad)">Mayank Jindal</text>
   <!-- subtitle -->
-  <text x="450" y="140" font-family="Segoe UI, Arial, sans-serif" font-size="17"
+  <text x="450" y="155" font-family="Segoe UI, Arial, sans-serif" font-size="17"
         text-anchor="middle" fill="#94A3B8" letter-spacing="2">
     AI &amp; ML Engineer · Full-Stack Builder · Problem Solver
   </text>
   <!-- bottom line accent -->
-  <rect x="330" y="162" width="240" height="2" rx="1" fill="url(#text-grad)" opacity="0.6"/>
+  <rect x="310" y="176" width="280" height="2" rx="1" fill="url(#text-grad)" opacity="0.6"/>
 </svg>
 
 <br/>
