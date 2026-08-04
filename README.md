@@ -2,7 +2,7 @@
      HERO BANNER
 ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:4C1D95,100:0D1117&height=240&section=header&text=Mayank%20Jindal&fontSize=62&fontColor=FFFFFF&fontAlignY=42&desc=AI%20%26%20ML%20Engineer%20%C2%B7%20Full-Stack%20Builder%20%C2%B7%20Problem%20Solver&descSize=18&descAlignY=62&descColor=C4B5FD&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:4C1D95,100:0D1117&height=240&section=header&text=Mayank%20Jindal&fontSize=62&fontColor=FFFFFF&fontAlignY=42&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Builder%20%7C%20Problem%20Solver&descAlignY=62&descColor=C4B5FD&animation=fadeIn" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════
      PROFILE VIEWS + TYPING SVG
