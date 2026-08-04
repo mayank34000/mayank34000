@@ -1,30 +1,51 @@
-<!-- ═══════════════════════════════════════════════════════════
-     HERO BANNER
-═══════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:4C1D95,100:0D1117&height=240&section=header&text=Mayank%20Jindal&fontSize=62&fontColor=FFFFFF&fontAlignY=42&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Builder%20%7C%20Problem%20Solver&descAlignY=62&descColor=C4B5FD&animation=fadeIn" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════
-     PROFILE VIEWS + TYPING SVG
-═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=mayank34000&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+<!-- HERO BANNER — pure SVG, renders on GitHub without any external service -->
+<svg width="100%" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="50%" style="stop-color:#1a0d3d"/>
+      <stop offset="100%" style="stop-color:#0D1117"/>
+    </linearGradient>
+    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#A78BFA"/>
+      <stop offset="100%" style="stop-color:#60A5FA"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" fill="url(#bg)" rx="12"/>
+  <!-- decorative circles -->
+  <circle cx="80" cy="40" r="55" fill="#6C63FF" opacity="0.07"/>
+  <circle cx="820" cy="160" r="70" fill="#4FC3F7" opacity="0.07"/>
+  <circle cx="450" cy="190" r="100" fill="#7C3AED" opacity="0.05"/>
+  <!-- name -->
+  <text x="450" y="95" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700"
+        text-anchor="middle" fill="url(#text-grad)">Mayank Jindal</text>
+  <!-- subtitle -->
+  <text x="450" y="140" font-family="Segoe UI, Arial, sans-serif" font-size="17"
+        text-anchor="middle" fill="#94A3B8" letter-spacing="2">
+    AI &amp; ML Engineer · Full-Stack Builder · Problem Solver
+  </text>
+  <!-- bottom line accent -->
+  <rect x="330" y="162" width="240" height="2" rx="1" fill="url(#text-grad)" opacity="0.6"/>
+</svg>
 
-<br/><br/>
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=660&height=50&lines=AI+%26+ML+Engineering+Student+%F0%9F%A4%96;Building+Intelligent+Systems+from+Scratch;Full-Stack+%E2%86%92+Backend+%E2%86%92+Machine+Learning;B.Tech+CSE+%40+Chitkara+University+%F0%9F%8F%AB;Code.+Learn.+Build.+Repeat.)](https://git.io/typing-svg)
+<!-- TYPING SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=6C63FF&center=true&vCenter=true&width=620&height=45&lines=Building+intelligent+systems+from+scratch;Full-Stack+%7C+Backend+%7C+Machine+Learning;B.Tech+CSE+%40+Chitkara+University;Code.+Learn.+Build.+Repeat.)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════
-     ABOUT ME
-═══════════════════════════════════════════════════════════ -->
+---
 
 ## 🧑‍💻 &nbsp;About Me
+
+Hey, I'm Mayank — a second-year B.Tech student specialising in AI & ML at Chitkara University, Punjab. I got into coding because I wanted to build things that actually work, not just pass exams. Most of my time outside class goes into building projects, grinding DSA, and figuring out how real systems are designed.
+
+I'm not chasing certifications or tutorial completions. I'm chasing the moment something I built actually works end-to-end.
 
 ```python
 class MayankJindal:
@@ -43,16 +64,11 @@ class MayankJindal:
             "backend" : "Designing and building scalable REST APIs ⚡",
             "design"  : "Studying system design fundamentals 🏗️",
         }
-
-    def __str__(self):
-        return "Always building something new."
 ```
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════
-     CURRENT FOCUS
-═══════════════════════════════════════════════════════════ -->
+---
 
 ## 🎯 &nbsp;Current Focus
 
@@ -93,15 +109,13 @@ class MayankJindal:
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════
-     TECH STACK
-═══════════════════════════════════════════════════════════ -->
+---
 
 ## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
-**⬡ &nbsp;Languages**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
@@ -110,42 +124,32 @@ class MayankJindal:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<br/>
-
-**⬡ &nbsp;Frontend**
+**Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<br/>
-
-**⬡ &nbsp;Backend**
+**Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-<br/>
-
-**⬡ &nbsp;AI / ML**
+**AI / ML**
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-<br/>
-
-**⬡ &nbsp;Databases**
+**Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-<br/>
-
-**⬡ &nbsp;Tools & Platforms**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -156,11 +160,9 @@ class MayankJindal:
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════
-     GITHUB ANALYTICS
-═══════════════════════════════════════════════════════════ -->
+---
 
-## 📊 &nbsp;GitHub Analytics
+## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
@@ -172,13 +174,15 @@ class MayankJindal:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank34000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" height="155"/>
 
+<br/><br/>
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Mayank34000?theme=dark&font=JetBrains%20Mono&ext=contest&border=0)](https://leetcode.com/u/Mayank34000/)
+
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════
-     CONTRIBUTION GRAPH
-═══════════════════════════════════════════════════════════ -->
+---
 
 ## 📈 &nbsp;Contribution Activity
 
@@ -190,91 +194,74 @@ class MayankJindal:
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════
-     TROPHIES
-═══════════════════════════════════════════════════════════ -->
+---
 
-## 🏆 &nbsp;GitHub Trophies
+
+## 🤝 &nbsp;Let's Connect
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=mayank34000&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/mayank34000)
-
-</div>
+I'm always open to interesting conversations, collaborations, or internship opportunities in AI/ML and software engineering. Feel free to reach out.
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════
-     DEV QUOTE
-═══════════════════════════════════════════════════════════ -->
-
-## 💬 &nbsp;Dev Quote
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════
-     CONNECT
-═══════════════════════════════════════════════════════════ -->
-
-## 🤝 &nbsp;Connect With Me
-
-<div align="center">
 
 <a href="https://www.linkedin.com/in/mayank-jindal-26214a321/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;
 <a href="https://github.com/mayank34000">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>&nbsp;
 <a href="mailto:mayankijndal777@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<br/><br/>
-
-> 💡 &nbsp;Open to collaborations, internship opportunities, and interesting conversations about AI & ML.
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════
-     FUN FACTS
-═══════════════════════════════════════════════════════════ -->
+---
 
-## ⚡ &nbsp;Fun Facts
+## ⚡ &nbsp;A Few Things About Me
 
 <details>
-<summary><b>&nbsp;A few things about me &nbsp;👇</b></summary>
+<summary><b>Click to expand &nbsp;👇</b></summary>
 
 <br/>
 
-- 🎓 &nbsp;Specialising in AI & ML as part of my B.Tech CSE degree at Chitkara University (2024–2028)
+- 🎓 &nbsp;Second-year B.Tech student specialising in AI & ML at Chitkara University (2024–2028)
 - 🏫 &nbsp;Campus Ambassador for **CyberIntel** and **Nishchit**
-- 🧠 &nbsp;I treat every tutorial as a starting point — the real learning happens when I close it and build from scratch
+- 🧠 &nbsp;I treat every tutorial as a starting point — real learning happens when I close it and build from scratch
 - 🔁 &nbsp;Always working on at least one thing I've never done before
-- ☕ &nbsp;Best debugging sessions happen over chai
+- ☕ &nbsp;Best debugging sessions happen over coffee
 
 </details>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════
-     FOOTER
-═══════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 
-<sub>Crafted with intent by <a href="https://github.com/mayank34000"><b>Mayank Jindal</b></a> &nbsp;·&nbsp; Built to grow, not just to impress.</sub>
+<!-- FOOTER SVG -->
+<svg width="100%" height="80" viewBox="0 0 900 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footer-bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="50%" style="stop-color:#1a0d3d"/>
+      <stop offset="100%" style="stop-color:#0D1117"/>
+    </linearGradient>
+    <linearGradient id="line-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6C63FF;stop-opacity:0"/>
+      <stop offset="50%" style="stop-color:#6C63FF"/>
+      <stop offset="100%" style="stop-color:#6C63FF;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="80" fill="url(#footer-bg)" rx="8"/>
+  <rect x="0" y="0" width="900" height="1" fill="url(#line-grad)"/>
+  <text x="450" y="48" font-family="Segoe UI, Arial, sans-serif" font-size="13"
+        text-anchor="middle" fill="#6C63FF" opacity="0.9">
+    Crafted with intent · Built to grow · mayank34000
+  </text>
+</svg>
 
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:4C1D95,100:6C63FF&height=130&section=footer" width="100%"/>
