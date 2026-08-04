@@ -174,9 +174,6 @@ class MayankJindal:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank34000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" height="155"/>
 
-<br/><br/>
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Mayank34000?theme=dark&font=JetBrains%20Mono&ext=contest&border=0)](https://leetcode.com/u/Mayank34000/)
 
 </div>
 
