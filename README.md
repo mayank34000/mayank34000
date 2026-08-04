@@ -43,7 +43,7 @@
 
 ## 🧑‍💻 &nbsp;About Me
 
-Hey, I'm Mayank — a second-year B.Tech student specialising in AI & ML at Chitkara University, Punjab. I got into coding because I wanted to build things that actually work, not just pass exams. Most of my time outside class goes into building projects, grinding DSA, and figuring out how real systems are designed.
+Hey, I'm Mayank — a Third-year B.Tech student specialising in AI & ML at Chitkara University, Punjab. I got into coding because I wanted to build things that actually work, not just pass exams. Most of my time outside class goes into building projects, grinding DSA, and figuring out how real systems are designed.
 
 I'm not chasing certifications or tutorial completions. I'm chasing the moment something I built actually works end-to-end.
 
